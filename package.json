@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "A very grumpy red head boy who is 10/10 a softy at heart. He's a McPuppy.",
   "main": "Chuuya.js",
-  "scripts": {
-    "start": node bot.js
-   },
   "author": "Silverbunnybun",
   "dependencies": {
   "discord.js": 11.1.0}
